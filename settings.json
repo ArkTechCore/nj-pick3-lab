@@ -1,0 +1,9 @@
+{
+  "start_year": 2024,
+  "end_year": 2026,
+  "rolling_windows": [30, 60, 100, 200],
+  "top_candidate_count": 25,
+  "groq_model": "llama-3.1-8b-instant",
+  "groq_max_tokens": 1200,
+  "groq_temperature": 0.2
+}
