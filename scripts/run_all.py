@@ -24,6 +24,8 @@ SCRIPTS = [
     "final_report_generator.py",
     "groq_ai_analyst.py",
     "archive_snapshot.py",
+    "number_lifecycle_engine.py",
+    "repeater_engine.py",
 ]
 
 
