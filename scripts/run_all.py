@@ -26,6 +26,7 @@ SCRIPTS = [
     "archive_snapshot.py",
     "number_lifecycle_engine.py",
     "repeater_engine.py",
+    "consensus_pick_engine.py",
 ]
 
 

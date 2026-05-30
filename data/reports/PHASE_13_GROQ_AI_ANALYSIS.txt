@@ -1,32 +1,32 @@
 **Executive Summary**
 
-Based on the provided historical data, our analysis highlights key trends and patterns in the lottery draws. The dataset spans 1756 draws, with a notable increase in draws in 2024 and 2025. Our analysis focuses on identifying strong box numbers, aggressive trend-based candidates, and digit, pair, and sum clusters.
+Based on the provided historical data, this report highlights key trends and patterns in the lottery. The analysis focuses on identifying strong box numbers, aggressive candidates, digit clusters, pair clusters, sum ranges, and provides considerations for Midday vs Evening draws. The report aims to provide a data-driven perspective for informed decision-making.
 
 **Top 10 Strongest Box Numbers**
 
-1. 148 (Sum: 13, Hits: 20, Recent Hits: 3, Digit Strength: 1652)
-2. 123 (Sum: 6, Hits: 11, Recent Hits: 3, Digit Strength: 1603)
-3. 49 (Sum: 13, Hits: 15, Recent Hits: 2, Digit Strength: 1574)
-4. 78 (Sum: 15, Hits: 15, Recent Hits: 2, Digit Strength: 1557)
-5. 37 (Sum: 10, Hits: 14, Recent Hits: 2, Digit Strength: 1587)
-6. 345 (Sum: 12, Hits: 13, Recent Hits: 2, Digit Strength: 1630)
-7. 138 (Sum: 12, Hits: 16, Recent Hits: 1, Digit Strength: 1655)
-8. 349 (Sum: 16, Hits: 18, Recent Hits: 1, Digit Strength: 1636)
-9. 369 (Sum: 18, Hits: 13, Recent Hits: 2, Digit Strength: 1602)
-10. 129 (Sum: 12, Hits: 11, Recent Hits: 2, Digit Strength: 1556)
+1. 148 (Sum: 13, Hits: 20, Recent Hits: 3, Digit Strength: 91)
+2. 123 (Sum: 6, Hits: 11, Recent Hits: 3, Digit Strength: 93)
+3. 49 (Sum: 13, Hits: 15, Recent Hits: 2, Digit Strength: 86)
+4. 78 (Sum: 15, Hits: 15, Recent Hits: 2, Digit Strength: 90)
+5. 37 (Sum: 10, Hits: 14, Recent Hits: 2, Digit Strength: 90)
+6. 345 (Sum: 12, Hits: 13, Recent Hits: 2, Digit Strength: 83)
+7. 138 (Sum: 12, Hits: 16, Recent Hits: 1, Digit Strength: 99)
+8. 349 (Sum: 16, Hits: 18, Recent Hits: 1, Digit Strength: 93)
+9. 369 (Sum: 18, Hits: 13, Recent Hits: 2, Digit Strength: 98)
+10. 129 (Sum: 12, Hits: 11, Recent Hits: 2, Digit Strength: 98)
 
 **Top 10 Aggressive / Trend-Based Candidates**
 
-1. 139 (Digit Score: 104, Pair Score: 25, Sum Score: 8, Recent Hits: 0)
-2. 179 (Digit Score: 105, Pair Score: 23, Sum Score: 6, Recent Hits: 1)
-3. 379 (Digit Score: 102, Pair Score: 25, Sum Score: 6, Recent Hits: 1)
-4. 199 (Digit Score: 109, Pair Score: 17, Sum Score: 6, Recent Hits: 0)
-5. 177 (Digit Score: 101, Pair Score: 23, Sum Score: 11, Recent Hits: 2)
-6. 399 (Digit Score: 106, Pair Score: 21, Sum Score: 3, Recent Hits: 1)
-7. 138 (Digit Score: 99, Pair Score: 24, Sum Score: 11, Recent Hits: 1)
-8. 137 (Digit Score: 100, Pair Score: 27, Sum Score: 3, Recent Hits: 1)
-9. 189 (Digit Score: 104, Pair Score: 19, Sum Score: 9, Recent Hits: 0)
-10. 129 (Digit Score: 98, Pair Score: 24, Sum Score: 11, Recent Hits: 2)
+1. 139 (Candidate Score: 51.95, Recent Hits: 0)
+2. 179 (Candidate Score: 51.30, Recent Hits: 1)
+3. 379 (Candidate Score: 50.80, Recent Hits: 1)
+4. 199 (Candidate Score: 50.75, Recent Hits: 0)
+5. 177 (Candidate Score: 50.75, Recent Hits: 2)
+6. 399 (Candidate Score: 50.40, Recent Hits: 1)
+7. 138 (Candidate Score: 50.25, Recent Hits: 1)
+8. 137 (Candidate Score: 50.10, Recent Hits: 1)
+9. 189 (Candidate Score: 50.05, Recent Hits: 0)
+10. 129 (Candidate Score: 49.90, Recent Hits: 2)
 
 **Strongest Digit Clusters**
 
@@ -69,12 +69,12 @@ Based on the provided historical data, our analysis highlights key trends and pa
 
 **Midday vs Evening Considerations**
 
-While there is no significant difference in the distribution of draws between Midday and Evening, it is essential to consider the specific draw type when selecting numbers.
+The data suggests that the Evening draw has a slightly higher number of draws (878) compared to the Midday draw (878). However, the analysis did not reveal any significant differences in the performance of box numbers, digit clusters, pair clusters, or sum ranges between the two draws.
 
 **Risk Warning**
 
-Lottery outcomes are inherently random, and no analysis can guarantee a win. It is essential to set a budget and play responsibly.
+Lottery outcomes are inherently random, and no analysis can guarantee a win. The provided data is based on historical trends and patterns, but it is essential to understand that each draw is an independent event.
 
 **Final Observations**
 
-Our analysis highlights key trends and patterns in the lottery draws. However, it is crucial to remember that lottery outcomes are random, and no analysis can guarantee a win. Players should consider multiple factors, including their personal preferences and budget, when selecting numbers.
+The analysis highlights the importance of considering multiple factors, including box numbers, digit clusters, pair clusters, and sum ranges, when making informed decisions. While the data provides valuable insights, it is crucial to maintain a balanced approach and not rely solely on analysis.
