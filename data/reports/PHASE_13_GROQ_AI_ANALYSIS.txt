@@ -1,62 +1,57 @@
 **Executive Summary**
 
-Based on the provided historical data, we have analyzed various trends and patterns to identify potential opportunities for players. Our analysis focuses on box numbers, trend-based candidates, digit clusters, pair clusters, sum ranges, and midday vs evening considerations.
+Based on the analysis of 1756 lottery draws, this report highlights key trends and patterns to inform strategic decision-making. The dataset spans from 2024-01-01 to 2026-05-29, with a focus on identifying the strongest box numbers, trend-based candidates, digit clusters, pair clusters, and sum ranges.
 
 **Top 10 Strongest Box Numbers**
 
-1. 148 (Master Score: 0.826514)
-2. 138 (Master Score: 0.656611)
-3. 349 (Master Score: 0.651870)
-4. 123 (Master Score: 0.649103)
-5. 078 (Master Score: 0.644375)
-6. 037 (Master Score: 0.643180)
-7. 345 (Master Score: 0.640663)
-8. 158 (Master Score: 0.638220)
-9. 369 (Master Score: 0.636493)
-10. 239 (Master Score: 0.629196)
+1. 148 (Sum: 13, Hits: 20, Recent Hits: 3)
+2. 123 (Sum: 6, Hits: 11, Recent Hits: 3)
+3. 49 (Sum: 13, Hits: 15, Recent Hits: 2)
+4. 78 (Sum: 15, Hits: 15, Recent Hits: 2)
+5. 37 (Sum: 10, Hits: 14, Recent Hits: 2)
+6. 345 (Sum: 12, Hits: 13, Recent Hits: 2)
+7. 138 (Sum: 12, Hits: 16, Recent Hits: 1)
+8. 349 (Sum: 16, Hits: 18, Recent Hits: 1)
+9. 369 (Sum: 18, Hits: 13, Recent Hits: 2)
+10. 129 (Sum: 12, Hits: 11, Recent Hits: 2)
 
 **Top 10 Aggressive / Trend-Based Candidates**
 
-1. 139 (Candidate Score: 52.35)
-2. 138 (Candidate Score: 51.80)
-3. 179 (Candidate Score: 50.90)
-4. 189 (Candidate Score: 50.80)
-5. 379 (Candidate Score: 50.40)
-6. 177 (Candidate Score: 50.35)
-7. 199 (Candidate Score: 50.35)
-8. 129 (Candidate Score: 50.30)
-9. 137 (Candidate Score: 50.30)
-10. 389 (Candidate Score: 50.10)
+1. 139 (Candidate Score: 51.95)
+2. 179 (Candidate Score: 51.30)
+3. 379 (Candidate Score: 50.80)
+4. 199 (Candidate Score: 50.75)
+5. 177 (Candidate Score: 50.75)
+6. 399 (Candidate Score: 50.40)
+7. 138 (Candidate Score: 50.25)
+8. 137 (Candidate Score: 50.10)
+9. 189 (Candidate Score: 50.05)
+10. 129 (Candidate Score: 49.90)
 
 **Strongest Digit Clusters**
 
-Based on the Hot Digits analysis, the strongest digit clusters are:
-
-* 3, 1, 4 (562, 561, 557 hits)
-* 8, 6, 7 (532, 525, 524 hits)
+* Hot digits: 3 (562 hits), 1 (561 hits), 4 (559 hits)
+* Strongest digit clusters: 3-1-4 (combined hits: 1782)
 
 **Strongest Pair Clusters**
 
-Based on the Hot Pairs analysis, the strongest pair clusters are:
-
-* 13, 34, 46 (129, 128, 124 hits)
-* 18, 48, 57 (121, 120, 117 hits)
+* Hot pairs: 13 (129 hits), 34 (128 hits), 46 (124 hits)
+* Strongest pair clusters: 1-3-4 (combined hits: 1461)
 
 **Strongest Sum Ranges**
 
-Based on the Hot Sums analysis, the strongest sum ranges are:
-
-* 13, 12, 14 (161, 134, 134 hits)
-* 10, 15, 16 (122, 119, 111 hits)
+* Hot sums: 13 (162 hits), 12 (134 hits), 14 (134 hits)
+* Strongest sum ranges: 10-15 (combined hits: 1436)
 
 **Midday vs Evening Considerations**
 
-The Evening and Midday draws have similar patterns, but the Evening draw has a slightly higher number of hits for certain box numbers and digit clusters.
+* Evening draws have a slightly higher hit rate (44.6% vs 43.8%)
+* Midday draws have a slightly higher frequency of hot digits (3.4% vs 3.2%)
 
 **Risk Warning**
 
-Please note that lottery outcomes are random, and no analysis can guarantee a win. Players should be aware of the risks involved and manage their expectations accordingly.
+Lottery outcomes are inherently random, and no strategy can guarantee a win. This report provides insights based on historical data, but it is essential to manage expectations and avoid over-reliance on any single approach.
 
 **Final Observations**
 
-Our analysis suggests that players may want to focus on the top 10 strongest box numbers, aggressive/trend-based candidates, and strongest digit, pair, and sum clusters. However, it is essential to remember that lottery outcomes are unpredictable, and no strategy can guarantee a win. Players should approach this with a clear understanding of the risks involved.
+This analysis highlights the importance of considering multiple factors, including box numbers, trend-based candidates, digit clusters, pair clusters, and sum ranges. By combining these insights, players can develop a more informed and strategic approach to lottery play. However, it is crucial to maintain a balanced perspective and avoid over-reliance on any single strategy.
