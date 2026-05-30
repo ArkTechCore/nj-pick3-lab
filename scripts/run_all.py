@@ -19,6 +19,8 @@ SCRIPTS = [
     "evening_model.py",
     "master_scoring_engine.py",
     "candidate_generator.py",
+    "straight_order_engine.py",
+    "precision_pick_engine.py",
     "final_report_generator.py",
     "groq_ai_analyst.py",
     "archive_snapshot.py",
