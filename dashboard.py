@@ -272,16 +272,23 @@ with tab2:
         cols = st.columns(5)
 
         for i, row in consensus_top.head(10).iterrows():
-            number = str(row["Straight"]).zfill(3)
-            score = round(row.get("Consensus Score", 0), 4)
+
+            number = f"{int(float(row['Straight'])):03d}"
+
+            score = round(
+                row.get("Consensus Score", 0),
+                4
+            )
 
             with cols[i % 5]:
                 st.markdown(
                     f"""
                     <div class="pick-card">
-                        <div class="pick-rank">Rank {i + 1}</div>
+                        <div class="pick-rank">Rank {i+1}</div>
                         {number}
-                        <div class="pick-rank">Consensus: {score}</div>
+                        <div class="pick-rank">
+                            Consensus: {score}
+                        </div>
                     </div>
                     """,
                     unsafe_allow_html=True
